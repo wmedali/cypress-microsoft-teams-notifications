@@ -4,7 +4,7 @@
   "description": "--- page_type: sample description: Samples to create \"Custom Bots\" to be used in Microsoft Teams. products: - office-teams - office - office-365 languages: - javascript extensions:   contentType: samples   createdDate: 12/5/2017 6:03:13 PM ---",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
